@@ -9,3 +9,5 @@ https://www.collagephoto.fr/ photo collage
  freepik.com/ site of photo gomycode
 https://www.cloudflare.com/ get ssl security
 https://www.bloggif.com : images .Gif
+image font awsome png : https://www.iconsdb.com/white-icons/
+image font awsome png :https://www.iconfinder.com/search/?q=phone&price=free
