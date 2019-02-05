@@ -1,0 +1,8 @@
+
+javascript:
+// this make any page editable 
+document.body.contentEditable = 'true'; 
+document.designMode = 'on'; void 0
+// Selecteur  d'element en js 
+$("a")
+document.querySelector
