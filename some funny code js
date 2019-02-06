@@ -7,4 +7,4 @@ document.designMode = 'on'; void 0
 $("a")
 document.querySelector
 // same conmmande 
-CTRL+SHIFT+J
+CTRL+SHIFT+J   open the DevTools of chrome
