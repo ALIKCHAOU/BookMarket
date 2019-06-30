@@ -21,3 +21,12 @@ image site : https://unsplash.com/
 
 My web site :cabinet Medicale  http://voteapp.ml/?i=1 
 http://videopub.ml/?i=1
+site for free photo with good resolution : 
+
+🖼️ https://stocksnap.io/
+🖼️ http://gratisography.com/
+🖼️ https://duotone.shapefactory.co/
+🖼️ https://negativespace.co/
+🖼️ https://isorepublic.com/
+🖼️ https://picjumbo.com/
+🖼️ https://imagefinder.co/
